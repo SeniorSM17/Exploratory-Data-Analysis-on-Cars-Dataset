@@ -1,0 +1,56 @@
+MSRP- Selling price in dollars.
+EPA Fuel Economy Est - City (MPG)- The fuel economy of an automobile.
+Engine'- Type of engine used in car 'l4', 'V6', 'V12', 'V8', 'Electric', 'V10', 'l5', 'W12', 'l6','I6', 'Flat', 'l3', 'W8'
+Drivetrain'- Types of drivetrain (Conveys power from engine to wheels) used (FWD, RWD, AWD, 4WD)
+Passenger Capacity'- Number of people who can be seated  0, 1,  2,  3,  4,  5,  6,  7,  8,  9, 12, 15
+Passenger Doors'- Number of doors in a car 0, 2, 3, 4
+Base Curb Weight (lbs)'- Total weight of the vehicle in pounds
+Passenger Volume (ft³)' - Volume of space available for passengers
+Wheelbase (in)'- Distance between the centers of the front and rear wheels
+Track Width, Front (in)'- Distance between the centerline of two frontwheels
+Height, Overall (in)'- Overall height of the car in inches
+Fuel Tank Capacity  Approx (gal)'- Fuel tank capacity in gallon
+SAE Net Torque @ RPM' - Net optimum torque at certain range of RPM
+Fuel System' - Type of fuel injection used in car
+SAE Net Horsepower @ RPM'- Horsepower produced at engine crankshaft(without transmission losses)
+Displacement'- Measure of the cylinder volume swept by all of the pistons (in litres)
+Trans Description Cont.'- Type of transmission used
+Trans Type'- Number of gears in transmission
+Suspension type Front - Type of suspension used in car front wheels
+Suspension type Rear - Type of suspension used in car rear wheels
+Air Bag Frontal Driver - Drivers Airbag(Y/N)
+Air Bag Frontal Passenger - Front passenger Airbag(Y/N)
+Air Bag-Side Body-Front - Airbags in front side of the car(Y/N)
+Air Bag-Side Body-Rear - Airbags in rear side of the car(Y/N)
+Air Bag Side Head-Front - Side airbags to protect head for front row(Y/N)
+Air Bag Side Head-Rear - Side airbags to protect head for rear row(Y/N)
+Air Bag-Passenger Switch (On/Off)'- Switch to operate passenger air bags
+Brakes -ABS - Is Antilock braking system is present(Y/N)
+Child Safety Rear Door Locks - Child safety door locks(Y/N)
+Daytime Running Lights - (Y/N)
+Traction Control - Is TCS available (Y/N)
+Night Vision - Thermographic camera to increase a driver's perception in darkness (Y/N)
+Rollover Protection Bar - Is ROPS present (Y/N)
+Fog Lamps - Is fog lamps present(Y/N)
+Parking Aid - Senors to monitor nearby obstacles(Y/N)
+Tire Pressure Monitor - Y/N
+Back up Camera - Is reversing camera present (Y/N)
+Stability Control - Is ECS present (Y/N)
+Basic Miles/km - Warrany Kms
+Basic Years - Warranty years
+Corrosion Miles/km - Warranty against corrosion
+Corrosion Years - Warranty against corrosion in years
+Drivetrain Miles/Km - Warranty for drivetrain
+Drivetrain Years - Warranty for drivetrain in years
+Turning Diameter Curb to Curb(ft) -Diameter of the smallest circular turn by the car
+Front Wheel Material - Material in which wheel is made up of
+Stabilizer Bar Diameter - Front (in) - Diameter of the front sway bar
+Roadside assistance in years - Roadside assistance provided in terms of years
+Roadside Assistance Miles/km - Roadside assistance provided in terms of km 'Manufacturer', 
+Model year',- Manufacturing year
+Category',-Type of vehicle SIV Sedan .
+Front tire width',  Width of front tyre
+Front tire aspect ratio'- Aspect ratio of front tyre
+Front tire speed ratings/cons.type',- Speed rating of front tyre
+Front tire rim size': Front rim size
+'Manufacturer'-Company which manufacture the car
